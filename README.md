@@ -1,6 +1,6 @@
 # Chart.js
 
-Quyida `Chart.js` yordamida chiziqli diagramma yaratish misoli keltirilgan.
+Quyida `Chart.js` yordamida chiziqli diagramma yaratish.
 
 ## HTML
 
