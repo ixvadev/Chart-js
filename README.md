@@ -1,4 +1,4 @@
-# Chart.js Misol
+# Chart.js
 
 Quyida `Chart.js` yordamida chiziqli diagramma yaratish misoli keltirilgan.
 
