@@ -10,7 +10,7 @@ Quyida `Chart.js` yordamida chiziqli diagramma yaratish.
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Chart.js Misol</title>
+    <title>Chart.js</title>
     <!-- Chart.js CDN -->
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
